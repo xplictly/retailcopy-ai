@@ -308,6 +308,7 @@ scripts/
 
 ## Contributors
 
+- [joshimayank20](https://github.com/joshimayank20)
 - [mrkeerthics24-dot](https://github.com/mrkeerthics24-dot)
 - [poojamagaji](https://github.com/poojamagaji)
 - [KumarSambhavSingh](https://github.com/KumarSambhavSingh)

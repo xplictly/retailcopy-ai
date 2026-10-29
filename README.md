@@ -306,6 +306,14 @@ scripts/
 - Live-provider quality and availability depend on the configured API provider and network.
 - The database reset action permanently deletes local catalog, review, description, and batch data.
 
+## Contributors
+
+- [mrkeerthics24-dot](https://github.com/mrkeerthics24-dot)
+- [poojamagaji](https://github.com/poojamagaji)
+- [KumarSambhavSingh](https://github.com/KumarSambhavSingh)
+
+These accounts are repository contributors under development of the project. GitHub also credits accounts as contributors in commit statistics only when their authenticated GitHub account appears in commit authorship.
+
 ## Repository
 
 GitHub: https://github.com/xplictly/retailcopy-ai
